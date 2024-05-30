@@ -42,7 +42,6 @@ while (true) {
     // Confirm the item has been added
     echo "Added '$input' to your cart at $" . number_format($price, 2) . ".\n\n";
 }
-
 // Final display of the cart and total cost
 echo "\nCheckout complete!\n";
 displayCart($cart, $totalCost);
