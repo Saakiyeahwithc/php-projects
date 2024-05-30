@@ -1,5 +1,3 @@
-
-
 <?php
 
 //compare any three intiger and find the greatest number 
