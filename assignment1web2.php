@@ -1,6 +1,6 @@
 <?php
 
-//compare any three intiger and find the greatest number 
+//compare any three integer and find the greatest number 
 $a = 4;
 $b = 8;
 $c = 20;
