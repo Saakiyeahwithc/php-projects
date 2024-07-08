@@ -6,6 +6,8 @@ $phone =
         "s3" => "9824370482"
     );
 
-foreach ($phone as $key => $value) {
-    echo "$key=$value \n";
-}
+// foreach ($phone as $key => $value) {
+//     echo "$key=$value \n";
+// }
+
+print_r($phone);
