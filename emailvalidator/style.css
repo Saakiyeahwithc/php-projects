@@ -1,0 +1,38 @@
+h1 {
+    padding: 10px;
+    background: rgba(137, 43, 226, 0.667);
+    border-radius: 2%;
+}
+
+body {
+    margin-left: 20px;
+    background: aliceblue;
+}
+
+
+
+.title {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.title.box {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+.submit {
+    font-size: larger;
+    background-color: rgb(178, 128, 225);
+    margin-top: 1cm;
+    padding: 5px 15px;
+    border-radius: 5%;
+    margin-left: 80px;
+}
+
+.submit:hover {
+    background-color: blueviolet;
+}
